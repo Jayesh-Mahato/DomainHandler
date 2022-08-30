@@ -7,3 +7,6 @@ venv
 
 # Operating system files
 *.DS_Store
+
+# Local DB ignored after initial commit
+*db.sqlite3*
