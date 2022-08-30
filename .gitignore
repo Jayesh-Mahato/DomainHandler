@@ -1,0 +1,9 @@
+# Virtual environment files
+venv
+
+# Code editor files
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+*.DS_Store
