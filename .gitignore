@@ -9,4 +9,7 @@ venv
 *.DS_Store
 
 # Local DB ignored after initial commit
-*db.sqlite3*
+db.sqlite3
+
+# Python cache
+__pycache__
